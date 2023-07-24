@@ -1,5 +1,5 @@
 <template>
-    <header class="grid grid-cols-12 gap-5 max-w-7xl mt-5">
+    <header class="grid grid-cols-12 gap-5 mt-5">
         <div class="col-span-8 flex flex-1">
             <div class="flex items-center">
                 <!-- Icon -->
