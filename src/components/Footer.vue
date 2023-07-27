@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="mt-32 bg-gray-100 py-16 rounded-xl mx-16">
+    <div class="mt-32 bg-gray-100 py-16 rounded-xl mx-16 mb-32">
         <div class="grid grid-col-12">
             <div class="mx-16 col-span-6 flex justify-between">
                 <nav class="flex flex-col">

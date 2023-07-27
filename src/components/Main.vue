@@ -44,33 +44,33 @@
                     <!-- Tarjetas de arriba -->
                     <div
                         class="border border-gray-200 rounded-xl items-center md:col-span-6  flex space-x-3 px-2 py-2 shadow-md">
-                        <img src="../../public/icons/minero.png" alt="minero icon" class="w-16">
+                        <img src="../imgs/icons/minero.png" alt="minero icon" class="w-16">
                         <a href="#" class="text-xl font-semibold  text-gray-700">Apps</a>
                     </div>
 
                     <div
                         class="border border-gray-200 rounded-xl items-center md:col-span-6 flex space-x-3 px-2 py-2 shadow-md">
-                        <img src="../../public/icons/sushi_411029.png" alt="minero icon" class="w-16">
+                        <img src="../imgs/icons/sushi_411029.png" alt="minero icon" class="w-16">
                         <a href="#" class="text-xl font-semibold  text-gray-700">Themes</a>
                     </div>
 
                     <!-- Tarjetas de abajo -->
                     <div
                         class="border border-gray-200 rounded-xl items-center md:col-span-6 flex space-x-3 px-2 py-2 shadow-md">
-                        <img src="../../public/icons/umbrella_365856.png" alt="minero icon" class="w-16">
+                        <img src="../imgs/icons/umbrella_365856.png" alt="minero icon" class="w-16">
                         <a href="#" class="text-xl font-semibold  text-gray-700">Fast Connection</a>
                     </div>
 
                     <div
                         class="border border-gray-200 rounded-xl items-center md:col-span-6 flex space-x-3 px-2 py-2 shadow-md">
-                        <img src="../../public/icons/life_7960398.png" alt="minero icon" class="w-16">
+                        <img src="../imgs/icons/life_7960398.png" alt="minero icon" class="w-16">
                         <a href="#" class="text-xl font-semibold  text-gray-700">Security</a>
                     </div>
                 </div>
             </div>
         </section>
         <section class="col-span-6 h-screen">
-            <img src="../../public/wallpaper.png" alt="Habbo castle">
+            <img src="../imgs/wallpaper.png" alt="Habbo castle">
         </section>
     </main>
 </template>

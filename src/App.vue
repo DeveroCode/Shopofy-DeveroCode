@@ -17,8 +17,6 @@ import Footer from './components/Footer.vue';
       <Join_us />
     </div>
 
-    <div class="mb-32">
-      <Footer />
-    </div>
+    <Footer />
   </div>
 </template>

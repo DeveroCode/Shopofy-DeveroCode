@@ -23,7 +23,7 @@
             <div class="col-span-4 text-box bg-white border border-black">
                 <div class="mt-16">
                     <div class="flex px-6 mb-10">
-                        <img src="../../public/icons/coin.png" alt="money icon" class="w-16">
+                        <img src="../imgs/icons/coin.png" alt="money icon" class="w-16">
                         <div class="flex flex-col">
                             <p class="text-gray-800 font-semibold">$12.38USD</p>
                             <span class="text-xs text-gray-700">
@@ -34,12 +34,12 @@
 
 
                     <div class="flex px-6 mb-10 items-center">
-                        <img src="../../public/icons/life_7960398.png" alt="money icon" class="w-16">
+                        <img src="../imgs/icons/life_7960398.png" alt="money icon" class="w-16">
                         <p class="text-gray-800 font-semibold">3 in 4 merchants</p>
                     </div>
 
                     <div class="flex px-6 mb-10 items-center">
-                        <img src="../../public/icons/peak.png" alt="money icon" class="w-16">
+                        <img src="../imgs/icons/peak.png" alt="money icon" class="w-16">
                         <p class="text-gray-800 font-semibold">Average number of apps installed per merchant</p>
                     </div>
                 </div>
